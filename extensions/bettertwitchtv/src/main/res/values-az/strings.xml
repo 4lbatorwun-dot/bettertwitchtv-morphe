@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_landing_title">Better Twitch-ə\nXoş Gəldiniz</string>
+    <string name="bttv_emote_picker_global_bttv">Qlobal BTTV İfadələri</string>
+    <string name="bttv_emote_picker_channel_bttv">Kanalın BTTV İfadələri</string>
+    <string name="bttv_emote_picker_global_ffz">Qlobal FrankerFaceZ İfadələri</string>
+    <string name="bttv_emote_picker_channel_ffz">Kanalın FrankerFaceZ İfadələri</string>
+    <string name="bttv_emote_picker_global_7tv">Qlobal 7TV İfadələri</string>
+    <string name="bttv_emote_picker_channel_7tv">Kanal 7TV İfadələri</string>
+    <string name="bttv_app_update_available">bttv-android: Yeniləmə aşkarlandı</string>
+    <string name="bttv_app_update_available_cta">Yeniləməni endirib quraşdırmaq üçün bura toxunun.</string>
+    <string name="bttv_sleep_timer_button_descr">Yuxu Vaxtölçəni Dialoqunu Açın</string>
+    <string name="bttv_sleep_timer_select_dialog_title">Yuxu Vaxtölçəni</string>
+    <string name="bttv_sleep_timer_cancel_dialog_title">Yuxu Vaxtölçənini ləğv et</string>
+    <string name="bttv_sleep_timer_cancel_dialog_message">Artıq Yuxu Vaxtölçəni işləyir. Ləğv etmək istəyirsiniz?</string>
+    <string name="bttv_settings_enable_bttv_emotes_primary">BTTV İfadələri</string>
+    <string name="bttv_settings_enable_bttv_emotes_secondary">Nə üçün bunu ləğv etmək istəyirsiniz?</string>
+    <string name="bttv_settings_enable_gif_emotes_primary">BTTV Gif İfadələri</string>
+    <string name="bttv_settings_enable_ffz_emotes_primary">FrankerFaceZ İfadələri</string>
+    <string name="bttv_settings_enable_7tv_emotes_primary">7TV İfadələri</string>
+    <string name="bttv_settings_enable_auto_redeem_points_primary">Kanal Xallarını Avtomatik İstifadə Et</string>
+    <string name="bttv_settings_show_sleep_timer_primary">Yuxu Vaxtölçənini Göstər</string>
+    <string name="bttv_emote_added_by_bttv">bttv-android ifadəni əlavə etdi</string>
+    <!-- e.g.: FrankerFaceZ Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_ffz">FrankerFaceZ ifadəsi %s tərəfindən əlavə edildi</string>
+    <!-- e.g.: 7TV Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_stv">7TV ifadəsi %s tərəfindən əlavə edildi</string>
+    <string name="bttv_updater_downloading">Endirilir</string>
+    <string name="bttv_updater_downloading_version">%s endirilir</string>
+    <string name="bttv_updater_notice">Yeniləyicini ilk dəfədir istifadə edirsinizsə, sehrbaz sizdən soruşanda bu mənbədən quraşdırmalara icazə verin.</string>
+    <string name="bttv_settings_open_highlights_dia_primary">Vurğulanan açar sözləri tənzimlə</string>
+    <string name="bttv_settings_open_highlights_dia_secondary">Vurğulanan dialoqu açır</string>
+    <string name="bttv_settings_highlights_dia_input_hint">Yeni açar söz daxil et</string>
+    <string name="bttv_settings_highlights_dia_title">Vurğulanan açar sözləri idarə et</string>
+    <string name="bttv_settings_gif_render_mode_title">GIF ifadələri</string>
+    <string name="bttv_settings_gif_render_mode_animate">Hərəkətli</string>
+    <string name="bttv_settings_gif_render_mode_static">Statik</string>
+    <string name="bttv_settings_gif_render_mode_disabled">Sıradan çıxarıldı</string>
+    <string name="bttv_settings_open_credits_button_title">Yaradıcılar</string>
+    <string name="bttv_settings_enable_show_deleted_messages">Silinən mesajları göstər</string>
+    <string name="bttv_credits_title">Yaradıcılar</string>
+    <string name="bttv_credits_intro">bttv-android <annotation link_to="https://github.com/FoseFx">FoseFx</annotation> tərəfindən hazırlanıb. Bu cəmiyyətin köməyi ilə:</string>
+    <string name="bttv_credits_bugs">Xəta Hesabatları</string>
+    <string name="bttv_credits_ideas">İdeyalar</string>
+    <string name="bttv_credits_translations">Tərcümələr</string>
+    <string name="bttv_copied_to_clipboard">İstifadəçi adı lövhəyə kopyalandı</string>
+    <string name="bttv_settings_enable_split_chat">Bölünmüş söhbət</string>
+    <string name="bttv_settings_enable_split_chat_descr">Hər ikinci söhbət mesajının arxaplanını rəngləndirin</string>
+    <string name="bttv_settings_gif_render_mode_animate_forever">Həmişəlik canlandır</string>
+    <string name="bttv_settings_gif_render_mode_descr">Qeyd: \"Həmişəlik canlandır\" batereyanızın daha tez bitirə bilər</string>
+    <string name="bttv_highlight_dia_list_empty">Burada heç nə yoxdur\n¯\\_(ツ)_/¯</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+    <string name="bttv_highlight_user_notice"><![CDATA[<user> istifadəçisini vurğulaya bilərsiniz. Məs.: <fosefx>]]></string>
+    <!-- Not to translators: It would be great if you can check what these settings are called on your device/language -->
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+</resources>

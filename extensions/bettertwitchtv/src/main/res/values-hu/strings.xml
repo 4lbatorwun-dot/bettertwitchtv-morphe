@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_landing_title">Üdvözöl a\nBetter Twitch!</string>
+    <string name="bttv_emote_picker_global_bttv">Globális BTTV Emote-ok</string>
+    <string name="bttv_emote_picker_channel_bttv">A csatorna BTTV Emote-jai</string>
+    <string name="bttv_emote_picker_global_ffz">Globális FrankerFaceZ Emoteok</string>
+    <string name="bttv_emote_picker_channel_ffz">A csatorna FrankerFaceZ Emote-jai</string>
+    <string name="bttv_emote_picker_global_7tv">Globális 7TV Emote-ok</string>
+    <string name="bttv_emote_picker_channel_7tv">A csatorna 7TV Emote-jai</string>
+    <string name="bttv_app_update_available">bttv-android: Új frissítés érhető el</string>
+    <string name="bttv_app_update_available_cta">Koppints ide hogy letöltsd és telepítsd az új frissítést.</string>
+    <string name="bttv_sleep_timer_button_descr">Alvási időzítés megnyitása</string>
+    <string name="bttv_sleep_timer_select_dialog_title">Alvási Időzítő</string>
+    <string name="bttv_sleep_timer_cancel_dialog_title">Alvási időzítő törlése</string>
+    <string name="bttv_sleep_timer_cancel_dialog_message">Már fut az alvási időzítő. Szeretnéd kikapcsolni?</string>
+    <string name="bttv_settings_enable_bttv_emotes_primary">BTTV Emote-ok</string>
+    <string name="bttv_settings_enable_bttv_emotes_secondary">Szeretnéd kikapcsolni ezt?</string>
+    <string name="bttv_settings_enable_gif_emotes_primary">BTTV GIF Emote-ok</string>
+    <string name="bttv_settings_enable_ffz_emotes_primary">FrankerFaceZ Emote-ok</string>
+    <string name="bttv_settings_enable_7tv_emotes_primary">7TV Emote-ok</string>
+    <string name="bttv_settings_enable_auto_redeem_points_primary">Csatornapontok automatikus begyűjtése</string>
+    <string name="bttv_settings_show_sleep_timer_primary">Alvási időzítő megjelenítése</string>
+    <string name="bttv_emote_added_by_bttv">Az emote hozzáadva a bttv-androiddal</string>
+    <!-- e.g.: FrankerFaceZ Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_ffz">FrankerFaceZ Emote hozzáadva %s által</string>
+    <!-- e.g.: 7TV Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_stv">7TV hozzáadva %s által</string>
+    <string name="bttv_updater_downloading">Letöltés</string>
+    <string name="bttv_updater_downloading_version">%s letöltése</string>
+    <string name="bttv_updater_notice">Ha ez az első alkalom, hogy használod a frissítőt, engedélyezd az alkalmazások telepítését ebből a forrásból amikor a telepítő erre megkér.</string>
+    <string name="bttv_settings_open_highlights_dia_primary">Szövegkiemelés kulcsszavainak beállítása</string>
+    <string name="bttv_settings_open_highlights_dia_secondary">Szövegkiemelés megnyitása</string>
+    <string name="bttv_settings_highlights_dia_input_hint">Írj be kulcsszót</string>
+    <string name="bttv_settings_highlights_dia_title">Szövegkiemelés kulcsszavainak beállítása</string>
+    <string name="bttv_settings_gif_render_mode_title">Gif Emote-ok</string>
+    <string name="bttv_settings_gif_render_mode_animate">Animálás</string>
+    <string name="bttv_settings_gif_render_mode_static">Statikus</string>
+    <string name="bttv_settings_gif_render_mode_disabled">Kikapcsolva</string>
+    <string name="bttv_settings_open_credits_button_title">Közreműködők</string>
+    <string name="bttv_settings_enable_show_deleted_messages">Törölt Üzenetek Megjelenítése</string>
+    <string name="bttv_settings_enable_anon_chat_primary">Névtelen chatelés</string>
+    <string name="bttv_settings_enable_anon_chat_secondary">Csatlakozás névtelenül a chathez, a felhasználó listában való megjelenés nélkül</string>
+    <string name="bttv_credits_title">Közreműködők</string>
+    <string name="bttv_credits_intro">bttv-android, készítve <annotation link_to="https://github.com/FoseFx">FoseFx</annotation> által, az ő segítségeikkel:</string>
+    <string name="bttv_credits_bugs">Hibajelentés</string>
+    <string name="bttv_credits_ideas">Javaslatok</string>
+    <string name="bttv_credits_translations">Fordítások</string>
+    <string name="bttv_credits_docs">Dokumentáció</string>
+    <string name="bttv_copied_to_clipboard">Felhasználónév másolva a vágólapra</string>
+    <string name="bttv_settings_enable_split_chat">Chat szétosztása</string>
+    <string name="bttv_settings_enable_split_chat_descr">Minden második chat üzenet hátterének színezése</string>
+    <string name="bttv_settings_gif_render_mode_animate_forever">Animálás örökké</string>
+    <string name="bttv_settings_gif_render_mode_descr">Megjegyzés: \"Animálás örökké\" gyorsan merítheti az akkumulátort</string>
+    <string name="bttv_settings_enable_dev_tools">Fejlesztői eszközök engedélyezése</string>
+    <string name="bttv_settings_enable_dev_tools_secondary">Kísérleti és késleltetési beállítások kezelése. Csak óvatosan.</string>
+    <string name="bttv_highlight_dia_list_empty">Semmi sincs itt\n¯\\_(ツ)_/¯</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+    <string name="bttv_highlight_user_notice"><![CDATA[Kiemelhetsz egy <user>-t így. Például: <fosefx>]]></string>
+    <!-- Not to translators: It would be great if you can check what these settings are called on your device/language -->
+    <string name="bttv_watchparty_twitch_missing">A Twitch App nincs telepítve az eszközödre. Ahhoz, hogy használd a Watch Parties funkciót a bttv-android alkalmazásban, szükséged van a Twitch Appra.\n\nTovábbá meg kell akadályoznod, hogy a Twitch megnyissa a twitch.tv linkeket. Csináld a következőt:\n\nNyomd hosszan a Twitch appot -&gt; \"Alkalmazás információ\" - &gt; \"Haladó\" -&gt; \"Megnyitás alapértelmezetten\" -&gt; \"Támogatott linkek megnyitása\" -&gt; \"Megkérdezés minden alkalommal\" (eltérhet különböző operációs rendszereken).\n\nMostantól meg leszel kérdezve, melyik alkalmazással akarod megnyitni a linkeket.</string>
+    <string name="bttv_removed_by_mod">eltávolítva</string>
+    <string name="bttv_settings_open_blacklist_dia_primary">Tiltólista kezelése</string>
+    <string name="bttv_settings_open_blacklist_dia_secondary">Tiltólista párbeszéd megnyitása</string>
+    <string name="bttv_settings_blacklist_dia_title">Tiltólistázott kulcsszavak kezelése</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+</resources>

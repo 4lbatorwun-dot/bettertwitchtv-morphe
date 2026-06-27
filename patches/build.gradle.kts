@@ -1,16 +1,17 @@
-group = "app.template"
+group = "app.morphe.patches.twitch"
 
 patches {
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "BetterTTV Twitch Patches"
+        description = "Integrate BetterTTV (BTTV), FrankerFaceZ (FFZ), and 7TV emotes into the official Twitch Android app."
+        source = "https://github.com/axel/bettertwitchtv-morphe"
+        author = "axel"
         contact = "na"
         website = "na"
         license = "GPLv3"
     }
 }
+
 
 kotlin {
     compilerOptions {

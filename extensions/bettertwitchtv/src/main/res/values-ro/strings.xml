@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_landing_title">Bine ai venit pe\nBetter Twitch</string>
+    <!-- e.g.: FrankerFaceZ Emote added by FoseFx -->
+    <!-- e.g.: 7TV Emote added by FoseFx -->
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+    <!-- Not to translators: It would be great if you can check what these settings are called on your device/language -->
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+</resources>

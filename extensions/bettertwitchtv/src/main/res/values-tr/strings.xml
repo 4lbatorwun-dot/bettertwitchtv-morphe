@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_landing_title">Better Twitch\'e\n Hoş Geldiniz</string>
+    <string name="bttv_emote_picker_global_bttv">Uluslararası BTTV Emojileri</string>
+    <string name="bttv_emote_picker_channel_bttv">Kanalın BTTV Emojileri</string>
+    <string name="bttv_emote_picker_global_ffz">Genel FrankerFaceZ Emojileri</string>
+    <string name="bttv_emote_picker_channel_ffz">Kanalın FrankerFaceZ Emojileri</string>
+    <string name="bttv_emote_picker_global_7tv">Genel 7TV Emojileri</string>
+    <string name="bttv_emote_picker_channel_7tv">Kanalın 7TV Emojileri</string>
+    <string name="bttv_app_update_available">bttv-android: Yeni güncelleme tespit edildi</string>
+    <string name="bttv_app_update_available_cta">Güncellemeyi indirip ve yüklemek için buraya tıklayın.</string>
+    <string name="bttv_sleep_timer_button_descr">Uyku zamanlayıcısı penceresini aç</string>
+    <string name="bttv_sleep_timer_select_dialog_title">Uyku Zamanlayıcısı</string>
+    <string name="bttv_sleep_timer_cancel_dialog_title">Uyku Zamanlayıcısını iptal et</string>
+    <string name="bttv_sleep_timer_cancel_dialog_message">Zaten bir Uyku Zamanlayıcısı çalışıyor. İptal etmek ister misiniz?</string>
+    <string name="bttv_settings_enable_bttv_emotes_primary">BTTV Emojileri</string>
+    <string name="bttv_settings_enable_bttv_emotes_secondary">Bunu neden devre dışı bırakmak istersin ki?</string>
+    <string name="bttv_settings_enable_gif_emotes_primary">BTTV Gif Emojileri</string>
+    <string name="bttv_settings_enable_ffz_emotes_primary">FrankerFaceZ Emojileri</string>
+    <string name="bttv_settings_enable_7tv_emotes_primary">7TV Emojileri</string>
+    <string name="bttv_settings_enable_auto_redeem_points_primary">Kanal Puanlarını Otomatik Topla</string>
+    <string name="bttv_settings_show_sleep_timer_primary">Uyku Zamanlayıcısını göster</string>
+    <string name="bttv_emote_added_by_bttv">Emoji bttv-android tarafından eklendi</string>
+    <!-- e.g.: FrankerFaceZ Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_ffz">FrankerFaceZ Emojisi %s tarafından eklendi</string>
+    <!-- e.g.: 7TV Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_stv">7TV Emojisi %s tarafından eklendi</string>
+    <string name="bttv_updater_downloading">İndiriliyor</string>
+    <string name="bttv_updater_downloading_version">%s İndiriliyor</string>
+    <string name="bttv_updater_notice">Eğer güncelleyiciyi ilk defa kullanıyorsanız, bu kaynaktan indirme yapılmasına izin verin.</string>
+    <string name="bttv_settings_open_highlights_dia_primary">Vurgulanan Anahtar Kelimelerini Düzenle</string>
+    <string name="bttv_settings_open_highlights_dia_secondary">İşaretlenmiş diyaloğu açar</string>
+    <string name="bttv_settings_highlights_dia_input_hint">Yeni anahtar kelime girin</string>
+    <string name="bttv_settings_highlights_dia_title">Anahtar kelimeleri yönet</string>
+    <string name="bttv_settings_gif_render_mode_title">Gif Emojiler</string>
+    <string name="bttv_settings_gif_render_mode_animate">Animasyon</string>
+    <string name="bttv_settings_gif_render_mode_static">Statik</string>
+    <string name="bttv_settings_gif_render_mode_disabled">Devre dışı</string>
+    <string name="bttv_settings_open_credits_button_title">Emeği geçenler</string>
+    <string name="bttv_settings_enable_show_deleted_messages">Silinen mesajları göster</string>
+    <string name="bttv_settings_enable_anon_chat_primary">Anonim Sohbet</string>
+    <string name="bttv_settings_enable_anon_chat_secondary">Kullanıcı listesinde görünmeden sohbete anonim olarak katılır</string>
+    <string name="bttv_credits_title">Emeği geçenler</string>
+    <string name="bttv_credits_intro">bttv-android <annotation link_to="https://github.com/FoseFx">FoseFx</annotation> tarafından yapılmıştır. Bu topluluğun sayesinde:</string>
+    <string name="bttv_credits_bugs">Hata Bildirenler</string>
+    <string name="bttv_credits_ideas">Fikir Bildirenler</string>
+    <string name="bttv_credits_translations">Çevirmenler</string>
+    <string name="bttv_credits_docs">Dökümantasyon</string>
+    <string name="bttv_copied_to_clipboard">Kullanıcı adı panoya kopyalandı</string>
+    <string name="bttv_settings_enable_split_chat">Bölünmüş Sohbet</string>
+    <string name="bttv_settings_enable_split_chat_descr">Sohbette her ikinci mesajın arka planını hafifçe renklendir</string>
+    <string name="bttv_settings_gif_render_mode_animate_forever">Sonsuza kadar canlandır</string>
+    <string name="bttv_settings_gif_render_mode_descr">Not: \"Sonsuza kadar canlandır\" pilinizi çok hızlı tüketebilir</string>
+    <string name="bttv_settings_enable_dev_tools">Geliştirici Araçlarını Etkinleştir</string>
+    <string name="bttv_settings_enable_dev_tools_secondary">Deneyleri, gecikmeyi ve diğer ayarları yönetin. Dikkatle ilerleyin.</string>
+    <string name="bttv_highlight_dia_list_empty">Burada hiçbir şey yok\n¯\\_(ツ)_/¯</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+    <string name="bttv_highlight_user_notice"><![CDATA[Bir <kullanıcıyı> bunu gibi vurgulayabilirsiniz. Örneğin <fosefx>]]></string>
+    <!-- Not to translators: It would be great if you can check what these settings are called on your device/language -->
+    <string name="bttv_watchparty_twitch_missing">Cihazınızda Twitch uygulaması yüklü değil. Partileri bttv-android\'de kullanabilmek için Twitch uygulamasının yüklü olması gerekir.\n\nAyrıca twitch.tv bağlantılarıyla etkileşim kurduğunuzda Twitch\'in açılmasını da engellemelisiniz. Aşağıdakileri yapın:\n\nTwitch uygulamasına uzun süre basın -&gt; \"Uygulama Bilgisi\" -&gt; \"Gelişmiş\" -&gt; \"Varsayılan olarak aç\" -&gt; \"Desteklenen bağlantıları aç\" -&gt; \"Her zaman sor\" (OEM\'e bağlı olarak değişebilir).\n\nArtık bağlantıları hangi Uygulamayla açmak istediğiniz sorulur.</string>
+    <string name="bttv_removed_by_mod">kaldırılmış</string>
+    <string name="bttv_settings_open_blacklist_dia_primary">Kara listeyi düzenle</string>
+    <string name="bttv_settings_open_blacklist_dia_secondary">Kara liste iletişim kutusunu açar</string>
+    <string name="bttv_settings_blacklist_dia_title">Kara listedeki kelimeleri yönet</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+</resources>

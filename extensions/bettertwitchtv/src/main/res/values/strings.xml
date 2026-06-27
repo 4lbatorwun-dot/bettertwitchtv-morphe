@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">BTTV</string>
+    <string name="login_landing_title">Welcome to\nBetter Twitch</string>
+    <string name="bttv_emote_picker_global_bttv">Global BTTV Emotes</string>
+    <string name="bttv_emote_picker_channel_bttv">Channel\'s BTTV Emotes</string>
+    <string name="bttv_emote_picker_global_ffz">Global FrankerFaceZ Emotes</string>
+    <string name="bttv_emote_picker_channel_ffz">Channel\'s FrankerFaceZ Emotes</string>
+    <string name="bttv_emote_picker_global_7tv">Global 7TV Emotes</string>
+    <string name="bttv_emote_picker_channel_7tv">Channel\'s 7TV Emotes</string>
+    <string name="bttv_app_update_available">bttv-android: New Update detected</string>
+    <string name="bttv_app_update_available_cta">Tap here to download and install the update.</string>
+    <string name="bttv_sleep_timer_button_descr">Open Sleep-Timer Dialog</string>
+    <string name="bttv_sleep_timer_select_dialog_title">Sleep-Timer</string>
+    <string name="bttv_sleep_timer_cancel_dialog_title">Cancel Sleep-Timer</string>
+    <string name="bttv_sleep_timer_cancel_dialog_message">You already have a Sleep Timer running. Do you want to cancel it?</string>
+    <string name="bttv_settings_enable_bttv_emotes_primary">BTTV Emotes</string>
+    <string name="bttv_settings_enable_bttv_emotes_secondary">Why would you disable this?</string>
+    <string name="bttv_settings_enable_gif_emotes_primary">BTTV Gif Emotes</string>
+    <string name="bttv_settings_enable_ffz_emotes_primary">FrankerFaceZ Emotes</string>
+    <string name="bttv_settings_enable_7tv_emotes_primary">7TV Emotes</string>
+    <string name="bttv_settings_enable_auto_redeem_points_primary">Auto-Redeem Channel Points</string>
+    <string name="bttv_settings_show_sleep_timer_primary">Show Sleep Timer</string>
+    <string name="bttv_emote_added_by_bttv">Emote added by bttv-android</string>
+    <!-- e.g.: FrankerFaceZ Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_ffz">FrankerFaceZ Emote added by %s</string>
+    <!-- e.g.: 7TV Emote added by FoseFx -->
+    <string name="bttv_emote_added_by_bttv_stv">7TV Emote added by %s</string>
+    <string name="bttv_updater_downloading">Downloading</string>
+    <string name="bttv_updater_downloading_version">Downloading %s</string>
+    <string name="bttv_updater_notice">If this is the first time you use the updater, allow installations from this source when the wizard asks you for it.</string>
+    <string name="bttv_updater_manual_update_start_toast">Checking for updates…</string>
+    <string name="bttv_updater_manual_update_no_update_toast">No updates found</string>
+    <string name="bttv_updater_manual_update_update_toast">Update found!</string>
+    <string name="bttv_updater_manual_update_error_toast">An error occurred</string>
+    <string name="bttv_settings_open_highlights_dia_primary">Set Highlight Keywords</string>
+    <string name="bttv_settings_open_highlights_dia_secondary">Opens Highlight Dialog</string>
+    <string name="bttv_settings_highlights_dia_input_hint">Enter new Keyword</string>
+    <string name="bttv_settings_highlights_dia_title">Manage Highlight Keywords</string>
+    <string name="bttv_settings_gif_render_mode_title">Gif Emotes</string>
+    <string name="bttv_settings_gif_render_mode_animate">Animate</string>
+    <string name="bttv_settings_gif_render_mode_static">Static</string>
+    <string name="bttv_settings_gif_render_mode_disabled">Disabled</string>
+    <string name="bttv_settings_open_credits_button_title">Credits</string>
+    <string name="bttv_settings_enable_show_deleted_messages">Show Deleted Messages</string>
+    <string name="bttv_settings_enable_anon_chat_primary">Anon Chat</string>
+    <string name="bttv_settings_enable_anon_chat_secondary">Joins chat anonymously without appearing in the userlist</string>
+    <string name="bttv_credits_title">Credits</string>
+    <string name="bttv_credits_intro">bttv-android was made by <annotation link_to="https://github.com/FoseFx">FoseFx</annotation> with help of these kind folks:</string>
+    <string name="bttv_credits_bugs">Bug Reports</string>
+    <string name="bttv_credits_ideas">Ideas</string>
+    <string name="bttv_credits_translations">Translations</string>
+    <string name="bttv_credits_docs">Documentation</string>
+    <string name="bttv_copied_to_clipboard">Username copied to clipboard</string>
+    <string name="bttv_settings_enable_split_chat">Split Chat</string>
+    <string name="bttv_settings_enable_split_chat_descr">Tint the background of every second chat message</string>
+    <string name="bttv_settings_gif_render_mode_animate_forever">Animate forever</string>
+    <string name="bttv_settings_gif_render_mode_descr">Note: "Animate forever" might drain your battery really fast</string>
+    <string name="bttv_settings_enable_dev_tools">Enable Developer Tools</string>
+    <string name="bttv_settings_enable_dev_tools_secondary">Manage experiments, latency and other settings. Proceed with caution.</string>
+    <string name="bttv_auto_update_checks_enabled">Check for updates automatically</string>
+    <string name="bttv_auto_update_checks_enabled_secondary">If enabled, the app checks for updates every day and with every start.</string>
+    <string name="bttv_settings_invoke_update_check">Check for updates now</string>
+    <string name="bttv_highlight_dia_list_empty">There\'s nothing here\n¯\\_(ツ)_/¯</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+    <string name="bttv_highlight_user_notice"><![CDATA[You can highlight a <user> like this. e.g.: <fosefx>]]></string>
+    <!-- Not to translators: It would be great if you can check what these settings are called on your device/language -->
+    <string name="bttv_watchparty_twitch_missing">You do not have the Twitch App installed on your device. In order to use Watch Parties in bttv-android you need to have the Twitch App installed.\n\nYou also have to prevent Twitch from opening when you interact with twitch.tv links. Do the following:\n\nLong-press on the Twitch App -> "App Info" -> "Advanced" -> "Open by default" -> "Open supported links" -> "Ask every time" (might vary depending on OEM).\n\nNow you are asked which App you want to open the links with.</string>
+    <string name="bttv_removed_by_mod">removed</string>
+    <string name="bttv_settings_open_blacklist_dia_primary">Manage Blacklist</string>
+    <string name="bttv_settings_open_blacklist_dia_secondary">Opens Blacklist Dialog</string>
+    <string name="bttv_settings_blacklist_dia_title">Manage blacklisted Keywords</string>
+    <!-- Crowdin thinks '<user>' is something special. It is not, feel free to translate it. -->
+</resources>
