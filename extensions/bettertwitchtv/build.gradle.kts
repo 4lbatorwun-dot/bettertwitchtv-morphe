@@ -21,6 +21,3 @@ dependencies {
     }
     implementation("com.caverock:androidsvg-aar:1.4")
 }
-
-
-

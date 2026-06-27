@@ -14,4 +14,3 @@ dependencies {
     compileOnly("androidx.fragment:fragment:1.3.6")
     compileOnly("androidx.appcompat:appcompat:1.2.0")
 }
-
