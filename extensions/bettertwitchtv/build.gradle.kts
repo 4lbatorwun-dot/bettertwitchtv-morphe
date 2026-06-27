@@ -16,6 +16,9 @@ dependencies {
     compileOnly("androidx.constraintlayout:constraintlayout:2.0.4")
     compileOnly("androidx.fragment:fragment:1.3.6")
     compileOnly("com.github.bumptech.glide:glide:4.12.0")
+    compileOnly("com.squareup.okhttp3:okhttp:4.9.1")
+    compileOnly("com.squareup.okio:okio:2.10.0")
+    compileOnly("ru.noties.markwon:markwon:3.0.1")
     implementation("com.github.zjupure:webpdecoder:2.0.4.12.0") {
         exclude(group = "com.github.bumptech.glide", module = "glide")
     }
