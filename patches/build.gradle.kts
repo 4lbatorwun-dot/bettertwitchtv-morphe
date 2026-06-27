@@ -4,8 +4,8 @@ patches {
     about {
         name = "BetterTTV Twitch Patches"
         description = "Integrate BetterTTV (BTTV), FrankerFaceZ (FFZ), and 7TV emotes into the official Twitch Android app."
-        source = "https://github.com/axel/bettertwitchtv-morphe"
-        author = "axel"
+        source = "https://github.com/4lbatorwun-dot/bettertwitchtv-morphe"
+        author = "4lbatorwun-dot"
         contact = "na"
         website = "na"
         license = "GPLv3"

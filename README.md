@@ -29,9 +29,9 @@ Since this repository is fully integrated with GitHub Actions, you do not need t
 2. Navigate to **Settings** -> **Repositories** (or Sources).
 3. Add your GitHub repository URL:
    ```
-   https://github.com/axel/bettertwitchtv-morphe
+   https://github.com/4lbatorwun-dot/bettertwitchtv-morphe
    ```
-   *(Alternatively, click [here](https://morphe.software/add-source?github=axel/bettertwitchtv-morphe) to add it automatically).*
+   *(Alternatively, click [here](https://morphe.software/add-source?github=4lbatorwun-dot/bettertwitchtv-morphe) to add it automatically).*
 4. Under the **Patcher** tab, select the official Twitch APK, enable the **BetterTTV Integration** patch, and click **Patch**.
 
 ---
