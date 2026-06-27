@@ -18,7 +18,8 @@ dependencies {
     compileOnly("com.github.bumptech.glide:glide:4.12.0")
     compileOnly("com.squareup.okhttp3:okhttp:4.9.1")
     compileOnly("com.squareup.okio:okio:2.10.0")
-    compileOnly("ru.noties.markwon:markwon:3.0.1")
+    compileOnly("ru.noties:markwon:2.0.2")
+    compileOnly("com.google.dagger:dagger-android:2.28.3")
     implementation("com.github.zjupure:webpdecoder:2.0.4.12.0") {
         exclude(group = "com.github.bumptech.glide", module = "glide")
     }
