@@ -23,14 +23,14 @@ object StreamMetadataModelProviderFingerprint : Fingerprint(
 object ChatMessageFactoryFingerprint : Fingerprint(
     custom = { method, classDef ->
         classDef.type.endsWith("/ChatMessageFactory;") &&
-        method.parameters.contains("Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;")
+        method.parameters.any { it.type == "Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;" }
     }
 )
 
 object SubNoticeChatMessageFactoryFingerprint : Fingerprint(
     custom = { method, classDef ->
         classDef.type.endsWith("/SubNoticeChatMessageFactory;") &&
-        method.parameters.contains("Ltv/twitch/chat/library/model/ChatMessageInfo;")
+        method.parameters.any { it.type == "Ltv/twitch/chat/library/model/ChatMessageInfo;" }
     }
 )
 

@@ -53,10 +53,10 @@ val twitchBTTVPatch = bytecodePatch(
         // 5. Hook ChatMessageFactory to tokenize emotes and block blacklisted messages
         ChatMessageFactoryFingerprint.method.apply {
             val parameterRegister = if (AccessFlags.STATIC.isSet(accessFlags)) {
-                val index = method.parameters.indexOf("Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;")
+                val index = parameters.map { it.type }.indexOf("Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;")
                 "p$index"
             } else {
-                val index = method.parameters.indexOf("Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;")
+                val index = parameters.map { it.type }.indexOf("Ltv/twitch/android/shared/chat/pub/messages/ui/ChatMessageInterface;")
                 "p${index + 1}"
             }
 
@@ -77,10 +77,10 @@ val twitchBTTVPatch = bytecodePatch(
         // 6. Hook SubNoticeChatMessageFactory to tokenize emotes
         SubNoticeChatMessageFactoryFingerprint.method.apply {
             val parameterRegister = if (AccessFlags.STATIC.isSet(accessFlags)) {
-                val index = method.parameters.indexOf("Ltv/twitch/chat/library/model/ChatMessageInfo;")
+                val index = parameters.map { it.type }.indexOf("Ltv/twitch/chat/library/model/ChatMessageInfo;")
                 "p$index"
             } else {
-                val index = method.parameters.indexOf("Ltv/twitch/chat/library/model/ChatMessageInfo;")
+                val index = parameters.map { it.type }.indexOf("Ltv/twitch/chat/library/model/ChatMessageInfo;")
                 "p${index + 1}"
             }
 
